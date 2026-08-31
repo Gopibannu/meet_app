@@ -1,0 +1,13 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "Zoom Clone - Video Conferencing App",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "start": "cd backend && node index.js",
+    "dev": "cd backend && node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
